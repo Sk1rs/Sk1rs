@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="assets/header.svg" alt="Sk1rs" width="100%">
@@ -67,7 +68,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Sk1rs/Sk1rs/output/snake.svg" alt="snake" width="100%">
+<img src="assets/drift.svg" alt="drift" width="100%">
 
 </div>
 
