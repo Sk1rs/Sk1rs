@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Sk1rs" width="100%">
+<img src="assets/sigil.svg" alt="Sk1rs" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=560&lines=play+SS14.;write+music.;draw+pixel+arts." alt="typing" />
 
@@ -58,18 +58,6 @@
 
 ---
 
-### ▚ ΔXIUS LIИK
-
-<div align="center">
-
-<a href="https://t.me/axiuslinkreborn"><img src="assets/axius.svg" alt="AXIUS LINK" width="100%"></a>
-
-<a href="https://t.me/axiuslinkreborn"><img src="https://img.shields.io/badge/archive-%CE%94XIUS%20LI%D0%98K-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22" alt="archive"></a>
-
-</div>
-
----
-
 ### ▚ статистика
 
 <div align="center">
@@ -79,7 +67,11 @@
 
 <br><br>
 
-<img src="assets/drift.svg" alt="drift" width="100%">
+<img height="150" src="https://streak-stats.demolab.com?user=Sk1rs&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&excludeDaysLabel=8b949e" alt="streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sk1rs&bg_color=0d1117&color=ffffff&line=ffffff&point=8b949e&area=true&area_color=ffffff&hide_border=true&custom_title=commits" alt="activity" width="100%">
 
 </div>
 
