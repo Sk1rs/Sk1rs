@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="assets/header.svg" alt="Sk1rs" width="100%">
@@ -17,7 +16,7 @@
 ### ▚ whoami
 
 ```
-> кодю то, что нужно мне самому: утилиты, инструменты, моды
+> пишу то, что нужно мне самому: утилиты, инструменты, моды
 > рисую пиксель-арт и спрайты
 > пишу музыку и синтезаторы к ней
 > самоучка, без формального бэкграунда
@@ -56,6 +55,18 @@
 | `▲` | **[ss14-drum-station](https://github.com/Sk1rs/ss14-drum-station)** | полноценная барабанная установка внутри SS14 · `C#` |
 | `▲` | **[synthwavesynth](https://github.com/Sk1rs/synthwavesynth)** | простой синтезатор на JUCE + VST3 SDK · `C++` |
 | `▲` | **[ChocStationFiles](https://github.com/Sk1rs/ChocStationFiles)** | файлы станции · `Fluent` |
+
+---
+
+### ▚ ΔXIUS LIИK
+
+<div align="center">
+
+<a href="https://t.me/axiuslinkreborn"><img src="assets/axius.svg" alt="AXIUS LINK" width="100%"></a>
+
+<a href="https://t.me/axiuslinkreborn"><img src="https://img.shields.io/badge/archive-%CE%94XIUS%20LI%D0%98K-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22" alt="archive"></a>
+
+</div>
 
 ---
 
